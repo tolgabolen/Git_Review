@@ -1,6 +1,6 @@
 package first;
 
-public class Loops{
+public class Loop {
   
   public static void main (String [] args){
     
